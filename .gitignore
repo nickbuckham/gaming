@@ -1,0 +1,14 @@
+# Ignore everything by default
+*
+
+# Whitelist the following directories
+!.gitignore
+!mods/
+!mods/**
+!resourcepacks/
+!resourcepacks/**
+!config/
+!config/**
+!shaderpacks/
+!shaderpacks/**
+
